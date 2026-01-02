@@ -1,0 +1,12 @@
+{
+  "name": "SanIwatacisco",
+  "description": "Custom merged font for Revenge",
+  "fonts": [
+    {
+      "name": "SanIwatacisco",
+      "files": {
+        "regular": "https://raw.githubusercontent.com/excellencess/revenge/main/fonts/SanIwatacisco.ttf"
+      }
+    }
+  ]
+}
