@@ -5,7 +5,7 @@
   "fonts": [
     {
       "name": "SanIwatacisco",
-      "files": {
+      "main": {
         "regular": "https://raw.githubusercontent.com/excellencess/revenge/main/fonts/SanIwatacisco.ttf"
       }
     }
