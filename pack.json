@@ -1,4 +1,5 @@
 {
-  "name": "San Iwatacisco",
+  "spec": 1,
+  "name": "SanIwatacisco",
   "main": "fonts/SanIwatacisco.ttf"
 }
