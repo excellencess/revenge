@@ -1,5 +1,10 @@
 {
-  "spec": 1,
+  "spec": 2,
   "name": "SanIwatacisco",
-  "main": "fonts/SanIwatacisco.ttf"
+  "fonts": [
+    {
+      "name": "SanIwatacisco",
+      "main": "https://github.com/excellencess/revenge/raw/refs/heads/main/fonts/SanIwatacisco.ttf"
+    }
+  ]
 }
